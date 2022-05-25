@@ -1,0 +1,6 @@
+.DS_Store
+output_debug/
+output_debug_conll/
+.vscode/
+pdtb_data
+train_dev_test/
